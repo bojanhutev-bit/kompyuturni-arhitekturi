@@ -10,4 +10,8 @@
 8. case Lian Li O11 Dynamic EVO XL ATX Full Tower
 9. PSU Asus ROG STRIX 1200P Gaming 1200 W 80+ Platinum Certified Fully Modular ATX
 - **периферия**
-1. монитор
+1. монитор MSI MAG 274QF X24 27.0" 2560 x 1440 240 Hz
+2. мишка Logitech G305 LIGHTSPEED Wireless
+3. клавиатура SteelSeries Apex 3 TKL RGB
+4. слушалки HP HyperX Cloud II 7.1 Channel
+   - **Защо избрах тези части**
