@@ -9,4 +9,5 @@
 6. GPU Asus DUAL OC GeForce RTX 5060 Ti 16 GB Video Card
 8. case Lian Li O11 Dynamic EVO XL ATX Full Tower
 9. PSU Asus ROG STRIX 1200P Gaming 1200 W 80+ Platinum Certified Fully Modular ATX
-10. 
+- **периферия**
+  1. монитор
