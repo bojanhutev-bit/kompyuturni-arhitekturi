@@ -10,4 +10,4 @@
 8. case Lian Li O11 Dynamic EVO XL ATX Full Tower
 9. PSU Asus ROG STRIX 1200P Gaming 1200 W 80+ Platinum Certified Fully Modular ATX
 - **периферия**
-  1. монитор
+1. монитор
