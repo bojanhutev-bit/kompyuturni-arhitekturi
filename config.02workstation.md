@@ -11,6 +11,5 @@
 8. Монитор 23.8'' Acer Nitro KG240Y W3bmiipx, 1920x1080, IPS, 240 Hz - UM.QX0EE.329
 9. Клавиатура Logitech G213 Prodigy, Черен
 10. Слушалки Audio-Technica ATH-M30x
-
-** описание **
+** защо избрах тези части **
 
