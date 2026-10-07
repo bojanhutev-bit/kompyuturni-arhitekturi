@@ -8,4 +8,4 @@
 6. Zotac GAMING Twin Edge GeForce RTX 4060 Ti 8 GB
 7. Lian Li LANCOOL 216 ATX Mid Tower
 8. Corsair RM1000x SHIFT 1000 W 80+ Gold Certified Fully Modular Side Interface ATX
-   - периферия
+   - **периферия**
