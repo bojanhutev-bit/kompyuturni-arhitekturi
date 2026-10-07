@@ -9,7 +9,7 @@
 7. Lian Li LANCOOL 216 ATX Mid Tower
 8. Corsair RM1000x SHIFT 1000 W 80+ Gold Certified Fully Modular Side Interface ATX
    - **периферия**
- Asus TUF Gaming VG279Q5A 27.0" 1920 x 1080 200 Hz
-Logitech MX KEYS S Bluetooth/Wireless/Wired Standard
- Asus ROG GLADIUS II CORE Wired Optical
-Audio-Technica ATH-M40x
+ 1. Asus TUF Gaming VG279Q5A 27.0" 1920 x 1080 200 Hz
+ 2. Logitech MX KEYS S Bluetooth/Wireless/Wired Standard
+ 3. Asus ROG GLADIUS II CORE Wired Optical
+ 4. Audio-Technica ATH-M40x
