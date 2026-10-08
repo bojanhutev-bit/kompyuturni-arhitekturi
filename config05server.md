@@ -13,10 +13,11 @@
 8. Zalman T6 ATX Mid Tower Case
 9. Corsair CX (2023) 650 W 80+ Bronze Certified ATX Power Supply
 10. be quiet! Pure Wings 3 49.9 CFM 120 mm Fan
-11. Asus TUF Gaming VG259QM5A 24.5" 1920 x 1080 240 Hz Monitor
-12. Corsair K55 RGB PRO Wired Gaming Keyboard
-13. Redragon M656 Wireless Optical Mouse
-14. Razer BlackShark V2 X 7.1 Channel Headset
+    - **Периферия**
+12. Asus TUF Gaming VG259QM5A 24.5" 1920 x 1080 240 Hz Monitor
+13. Corsair K55 RGB PRO Wired Gaming Keyboard
+14. Redragon M656 Wireless Optical Mouse
+15. Razer BlackShark V2 X 7.1 Channel Headset
  
 
  
