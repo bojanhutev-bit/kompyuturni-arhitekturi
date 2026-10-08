@@ -2,3 +2,4 @@
 [pcpacket- server](https://pcpartpicker.com/list/ddXfxf)
 
 -**Части**
+1. 
