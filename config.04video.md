@@ -13,4 +13,5 @@
 - Logitech MX KEYS S Bluetooth/Wireless/Wired Standard
 - Asus ROG GLADIUS II CORE Wired Optical
 - Audio-Technica ATH-M40x
+  
   **Защо избрах тези части?**
